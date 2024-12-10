@@ -1,0 +1,11 @@
+/* debug  */
+[class^='row'] {
+    background-color: cyan;
+    min-height: 100px;
+}
+
+[class^='col'] {
+    background-color: magenta;
+    min-height: 100px;
+    border: 1px solid black;
+}
